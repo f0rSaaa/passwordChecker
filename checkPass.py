@@ -3,7 +3,7 @@ import hashlib
 import sys
 
 
-#password123------<Response [400]> not gooog
+#password123------<Response [400]> not good
 #CBFDAC6008F9CAB4083784CBD1874F76618D2A97----- <Respones [400]>
 #<Response [200]> is good
 #CBFDA----- <Response [200]>
